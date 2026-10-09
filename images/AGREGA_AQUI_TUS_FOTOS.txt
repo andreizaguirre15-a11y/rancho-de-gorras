@@ -1,0 +1,1 @@
+Coloca aquí las fotos originales de tus gorras. Después actualiza las rutas en script.js.
