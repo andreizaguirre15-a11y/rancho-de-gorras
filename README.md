@@ -22,3 +22,11 @@ Los cambios de código subidos a GitHub se pueden publicar automáticamente con 
 
 ## Fotos de producto
 Guarda tus fotos en `images/`, por ejemplo `images/ariat-negra.jpg`, y en el producto correspondiente de `script.js` escribe `image: "images/ariat-negra.jpg"`. Conserva las fotos originales sin recortarlas si ese es el aspecto que deseas mostrar.
+
+
+## Fotos ARIAT añadidas
+- `images/ariat-negra-beige.png`
+- `images/ariat-negra-escudo.png`
+- `images/ariat-camuflaje-bandera.png`
+
+Las fotografías originales se muestran completas, con su fondo intacto. Los precios siguen como “Consultar precio” porque no se proporcionaron precios definitivos. Actualiza `INSTAGRAM_URL` en `script.js` con el enlace correcto de la cuenta de la tienda antes de anunciarla.
